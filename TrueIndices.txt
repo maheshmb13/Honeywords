@@ -1,0 +1,13 @@
+minerva 11
+zonko 5
+aragog 6
+crabbe 9
+madam 7
+flitwick 10
+karkaroff 4
+scammander 0
+spinnet 3
+keeper 8
+prophet 12
+imperious 10
+fawkes 7

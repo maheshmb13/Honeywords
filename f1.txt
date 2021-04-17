@@ -1,0 +1,13 @@
+minerva 0 9 11 4 1 1
+zonko 12 0 11 5 2 4
+aragog 2 5 0 4 6 4
+crabbe 10 8 3 9 1 0
+madam 6 9 8 7 4 5
+flitwick 1 7 2 0 10 5
+karkaroff 1 7 4 7 7 6
+scammander 12 7 0 4 1 4
+spinnet 6 7 4 3 12 8
+keeper 1 5 10 8 2 10
+prophet 4 2 5 0 12 9
+imperious 4 6 6 11 4 10
+fawkes 2 8 11 10 6 7
