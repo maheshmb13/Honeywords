@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Honeyword Based Password Management System</h3>
+  <h3 align="center">Erguler's Honeyword Based Password Management System</h3>
 
   <p align="center">
     Achieving Flatness: Selecting the Honeywords from Existing User Passwords
@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Implementation of Eugler’s honeyword based scheme. Socket programming (secure TCP channel) is used for the communication.
+Implementation of Erguler’s honeyword based scheme. Socket programming (secure TCP channel) is used for the communication.
 
 [![Product Name Screen Shot][product-screenshot]]()
 
