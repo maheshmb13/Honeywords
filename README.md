@@ -4,7 +4,7 @@
   <h3 align="center">Erguler's Honeyword Based Password Management System</h3>
 
   <p align="center">
-    Achieving Flatness: Selecting the Honeywords from Existing User Passwords
+    Research Paper: Achieving Flatness: Selecting the Honeywords from Existing User Passwords
     <br />
     <a href="https://ieeexplore.ieee.org/document/7047759/"><strong>Link to the paper »</strong></a>
   </p>
